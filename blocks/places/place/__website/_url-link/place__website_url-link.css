@@ -1,0 +1,15 @@
+.place__website_url-link {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: left;
+  margin: 0;
+  word-break: break-all;
+  text-decoration: underline;
+  transition: text-decoration 0.3s;
+}
+
+.place__website_url-link:hover {
+  cursor: pointer;
+  text-decoration: none;
+}
